@@ -2,3 +2,4 @@ TA-Lib
 numpy
 pandas
 python-binance
+autobahn>=20.12.3 # not directly required, pinned by Snyk to avoid a vulnerability
